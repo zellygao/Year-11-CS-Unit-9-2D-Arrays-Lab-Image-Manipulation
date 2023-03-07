@@ -1,6 +1,6 @@
 # Year-11-CS-Unit-8-2D-Arrays-Lab-Image-Manipulation
 
-This lab includes a jar file called images. The jar file has already been added to the project for you. This jar file contains several different classes (APImage, ImageIterator, ImageFileFilter, ImagePanel, and Pixel). The only two classes that you will directly use in the images jar file are <b>APImage</b> and <b>Pixel</b>. The <b>APImage</b> class represents an image as a two-dimensional grid of <b>Pixel</b> objects. You will use the constructors and methods in the <b>APImage</b> class and <b>Pixel</b> class in order to complete this lab. The methods for the <b>APImage</b> and <b>Pixel</b> class are listed below.
+This lab includes two packages within the src folder: code and image. If you open the code package, you will see a single class called ImageManipulation. <b>This is the only class that you will be writing code in</b>. If you open the image package, you will see four classes within it: APImage, ImageFileFilter, ImagePanel, and Pixel. The only two classes that you will directly use within your program are <b>APImage</b> and <b>Pixel</b>. The <b>APImage</b> class represents an image as a two-dimensional grid of <b>Pixel</b> objects. You will use the constructors and methods in the <b>APImage</b> class and <b>Pixel</b> class in order to complete this lab. The methods for the <b>APImage</b> and <b>Pixel</b> class are listed below.
 
 # APImage class
 
@@ -37,7 +37,30 @@ This lab includes a jar file called images. The jar file has already been added 
 | Pixel clone() | Returns a copy of this pixel |
 | String toString() | Returns the string representation of the pixel (red, green, and blue values) |
 
+There are six challenges in this lab (challenge 0, challenge 1, challenge 2, challenge 3, challenge 4, and challenge 5). To complete this lab, you will need to complete challenges 0, 1, 2, and 3. Challenges 4 and 5 are optional and you should only attempt them if you are, like, really confident and are really feeling yourself #slay.
 
+Below are examples of what your output should look like after calling each method.
 
+Challenge 0:
 
+<img width="1390" alt="Screen Shot 2023-03-07 at 3 58 18 PM" src="https://user-images.githubusercontent.com/57818506/223359976-45942c39-3bda-479b-99b0-d366602b0af1.png">
 
+Challenge 1:
+
+<img width="1390" alt="Screen Shot 2023-03-07 at 3 48 09 PM" src="https://user-images.githubusercontent.com/57818506/223360010-588bbbcf-881a-43d7-8f9a-3573f85bfa73.png">
+
+Challenge 2:
+
+<img width="1385" alt="Screen Shot 2023-03-07 at 3 50 15 PM" src="https://user-images.githubusercontent.com/57818506/223360051-d327d84c-5e01-4d90-8793-1995d7380335.png">
+
+Challenge 3 (threshold 20):
+
+<img width="1387" alt="Screen Shot 2023-03-07 at 3 49 41 PM" src="https://user-images.githubusercontent.com/57818506/223360081-f03b02c0-ad01-40a5-912a-4d6a027effac.png">
+
+Challenge 4:
+
+Challenge 5:
+
+<img width="879" alt="Screen Shot 2023-03-07 at 3 48 36 PM" src="https://user-images.githubusercontent.com/57818506/223360180-d77d51cb-9074-48c8-ba63-43e8396812d6.png">
+
+As always, good luck, have fun! =)
