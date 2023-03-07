@@ -1,5 +1,6 @@
-import images.Pixel;
-import images.APImage;
+package code;
+
+import image.Pixel;
 
 public class ImageManipulation {
 
@@ -7,6 +8,7 @@ public class ImageManipulation {
      *  Write a statement that will display the image in a window
      */
     public static void main(String[] args) {
+
 
     }
 
