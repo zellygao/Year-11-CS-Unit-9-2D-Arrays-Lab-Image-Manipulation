@@ -59,6 +59,8 @@ Challenge 3 (threshold 20):
 
 Challenge 4:
 
+<img width="1387" alt="Screen Shot 2023-03-07 at 4 14 01 PM" src="https://user-images.githubusercontent.com/57818506/223363205-7bdd7c36-1bc1-421d-9678-9cbe97d1d22b.png">
+
 Challenge 5:
 
 <img width="879" alt="Screen Shot 2023-03-07 at 3 48 36 PM" src="https://user-images.githubusercontent.com/57818506/223360180-d77d51cb-9074-48c8-ba63-43e8396812d6.png">
