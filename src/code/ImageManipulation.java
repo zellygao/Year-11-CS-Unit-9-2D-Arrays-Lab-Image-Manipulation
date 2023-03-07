@@ -82,4 +82,14 @@ public class ImageManipulation {
 
     }
 
+    /** CHALLENGE Five: Rotate Image
+     *
+     * INPUT: the complete path file name of the image
+     * OUTPUT: the image rotated 90 degrees CLOCKWISE
+     *
+     *  */
+    public static void rotateImage(String pathToFile) {
+
+    }
+
 }
